@@ -1,4 +1,4 @@
-# Social Media Backend API
+# Collaboration-Platform-backend API
 
 A RESTful backend for a social media application built with **Node.js**, **Express.js**, **MongoDB**, and **JWT Authentication**. The application provides secure user authentication, profile management, connection requests, and personalized user feeds.
 
